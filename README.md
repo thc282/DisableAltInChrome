@@ -10,21 +10,20 @@ _**What this extension do**_:
 > - Will not effect the `ALT` action, like hotkeys `ALT+C`, `ALT+1`, ... \
     `Other Alt+[key] still work, u can use other extension without any problem`
 
-<details>
+## How to install
+<details> 
+<summary>Installation Guide</summary> 
     
-<summary>How to install</summary>
+1. Download the ZIP file from this repository and **unzip** it \
+[**Download here**](https://github.com/thc282/DisableAltInChrome/releases)
 
-### Installation Guide
-1. Download the ZIP file from this repository and unzip it
-![Guide1](DisableAlt/src/Guide1.jpeg)
-
-2. Open Chrome options Menu > Extension > Manage Extension
+3. Open Chrome options Menu > Extension > Manage Extension
 ![Guide2](DisableAlt/src/Guide2.jpeg)
 
-3. Turn On Developer Mode, then choose Load Unpacked
+4. Turn On Developer Mode, then choose Load Unpacked
 ![Guide3](DisableAlt/src/Guide3.jpeg)
 
-4. Choose and Select the unzipped folder
+5. Choose and Select the unzipped folder
 > **Please make sure the ZIP file already UNZIPPED**
 
 ![Guide4](DisableAlt/src/Guide4.jpeg)
