@@ -33,3 +33,7 @@ _**What this extension do**_:
 ![Guide5](DisableAlt/src/Guide5.jpeg)
 
 </details>
+
+TODO:
+---
+- [ ] Add On/Off Option
