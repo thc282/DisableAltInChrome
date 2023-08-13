@@ -1,0 +1,15 @@
+{
+    "name": "Disable Alt To trigger Menu",
+    "version": "1.0.0",
+    "description": "Force to disable the alt key to open the chrome menu when pressed ",
+    "manifest_version": 3,
+    "author": "thc282",
+    "content_scripts": [
+        {
+            "js": ["Disable.js"],
+            "matches": ["*://*/*"],
+            "all_frames": true,
+            "run_at": "document_end"
+        }
+    ]
+}
