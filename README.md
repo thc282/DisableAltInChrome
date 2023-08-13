@@ -1,3 +1,5 @@
+🌏 English | **[繁體中文](README_CNT.md)**
+
 # Disable `ALT` focus In Chrome
 
 Disable the annoying menu focus, when user press the `ALT` key
@@ -31,4 +33,3 @@ _**What this extension do**_:
 ![Guide5](DisableAlt/src/Guide5.jpeg)
 
 </details>
-
