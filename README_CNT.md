@@ -1,4 +1,4 @@
-🌏 **[English](README_en.md)** | 繁體中文
+🌏 **[English](README.md)** | 繁體中文
 
 # Chrome禁用`ALT`選中清單
 
